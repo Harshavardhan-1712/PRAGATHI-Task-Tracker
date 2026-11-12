@@ -1,0 +1,13 @@
+# Environment and Secrets
+.env
+storage/pragathi.sqlite
+storage/pragathi_test.sqlite
+storage/logs/*.log
+!storage/logs/.gitkeep
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
